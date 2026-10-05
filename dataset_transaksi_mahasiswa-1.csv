@@ -1,0 +1,63 @@
+ID_Transaksi,Waktu_Beli,Item_Dibeli,Jumlah_Item,Total_Bayar_Rp
+TRX_001,Sore,"Roti Bakar, Kopi Susu",2,18000
+TRX_002,Siang,"Batagor, Boba",2,22000
+TRX_003,,Mie Goreng,1,10000
+TRX_004,Siang,"Gorengan, Kopi Susu, Boba",3,27000
+TRX_005,Siang,"Nasi Ayam Geprek, Es Teh Manis",2,19000
+TRX_006,Malam,"Roti Bakar, Kopi Susu",2,18000
+TRX_007,Sore,"Gorengan, Kopi Susu",2,15000
+TRX_008,Pagi,"Keripik, Boba",2,18000
+TRX_009,Siang,"Nasi Ayam Geprek, Es Teh Manis",2,19000
+TRX_010,Siang,"Mie Goreng, Es Teh Manis",2,14000
+TRX_010,Siang,"Mie Goreng, Es Teh Manis",2,14000
+TRX_011,Sore,"Nasi Ayam Geprek, Es Teh Manis",2,19000
+TRX_012,Pagi,"Nasi Goreng, Air Mineral",2,16000
+TRX_013,Pagi,"Roti Bakar, Kopi Susu",2,18000
+TRX_014,Siang,"Mie Goreng, Es Teh Manis",2,14000
+TRX_015,Siang,"Mie Goreng, Es Teh Manis",2,14000
+TRX_016,Siang,Keripik,1,6000
+TRX_017,Sore,"Batagor, Boba",2,22000
+TRX_018,Siang,"Nasi Ayam Geprek, Es Teh Manis, Gorengan",3,24000
+TRX_019,Sore,"Batagor, Boba",2,22000
+TRX_020,Siang,Mie Goreng,1,10000
+TRX_021,Sore,"Gorengan, Kopi Susu, Nasi Goreng",3,28000
+TRX_022,Malam,"Keripik, Boba, Nasi Ayam Geprek",3,33000
+TRX_023,Malam,"Nasi Goreng, Air Mineral, Jus Buah",3,25000
+TRX_024,Siang,"Mie Goreng, Es Teh Manis",2,14000
+TRX_025,Siang,"Gorengan, Kopi Susu",2,15000
+TRX_026,Pagi,"Mie Goreng, Es Teh Manis",2,14000
+TRX_027,Pagi,Nasi Ayam Geprek,1,15000
+TRX_028,Malam,Kopi Susu,1,10000
+TRX_029,Siang,"Roti Bakar, kopi susu ",2,18000
+TRX_030,Pagi,Roti Bakar,1,8000
+TRX_031,Malam,Gorengn,1,5000
+TRX_032,Siang,"Nasi Ayam Geprek, Es Teh Manis, Batagor",3,29000
+TRX_033,Siang,Es Teh Manis,1,4000
+TRX_034,Siang,Jus Buah,1,9000
+TRX_035,Pagi,"Mie Goreng, Es Teh Manis, Kopi Susu",3,24000
+TRX_036,Siang,Nasi Goreng,1,13000
+TRX_037,Malam,Air Mineral,1,3000
+TRX_038,Malam,"Nasi Ayam Geprek, Es Teh Manis",2,19000
+TRX_039,Siang,"Nasi Ayam Geprek, Es Teh Manis, Air Mineral",3,22000
+TRX_040,Pagi,"Nasi Goreng, Air Mineral",2,16000
+TRX_041,Siang,"Gorengan, Kopi Susu",2,15000
+TRX_042,Pagi,Mie Goreng,1,10000
+TRX_043,Siang,"Batagor, Boba",2,22000
+TRX_044,Malam,"Batagor, Boba",2,22000
+TRX_045,Siang,"Nasi Ayam Geprek, es teh manis, Roti Bakar",3,27000
+TRX_046,Sore,Jus Buah,1,9000
+TRX_047,Malam,"Nasi Goreng, Air Mineral",2,160000
+TRX_048,Malam,Nasi Goreng,1,13000
+TRX_049,Pagi,Boba,1,12000
+TRX_050,Pagi,Batagor,1,10000
+TRX_051,,"Roti Bakar, Kopi Susu",2,18000
+TRX_052,Pagi,"Roti Bakar, Kopi Susu",2,18000
+TRX_052,Pagi,"Roti Bakar, Kopi Susu",2,18000
+TRX_053,Pagi,Gorengan,1,5000
+TRX_054,Sore,"Gorengan, Kopi Susu",2,15000
+TRX_055,Siang,"Nasi Goreng, Air Mineral, Roti Bakar",3,24000
+TRX_056,Siang,"Nasi Ayam Geprek, Es Teh Manis",2,19000
+TRX_057,Siang,"Nasi Ayam Geprek, Es Teh Manis",2,19000
+TRX_058,Sore,"Batagor, Boba",2,22000
+TRX_059,Siang,Nasi ayam Geprek,1,15000
+TRX_060,Sore,"Gorengan, Kopi Susu",2,15000
